@@ -1,0 +1,5 @@
+node_modules/
+.env
+dist/
+build/git rm -r --cached node_modules
+git rm -r --cached node_modules
